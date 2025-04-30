@@ -1,4 +1,9 @@
+import sys
+import random 
 from cell import Cell
+
+pc_point = 0
+player_point = 0
 
 class Player:
     speed = 1

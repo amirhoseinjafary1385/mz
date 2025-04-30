@@ -18,8 +18,7 @@ def home():
 if __name__ == '__main__':
     #Debugging
     app.run(debug= True)
-
-
+    
 
 
 
